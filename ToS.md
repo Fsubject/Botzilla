@@ -1,4 +1,4 @@
- # NewsBot ToS | 16-04-2023
+ # Botzilla ToS | 16-04-2023
 
  Our terms and conditions apply to every Botzilla bot user, when you add Botzilla in your server means you agree to our terms of service and future terms
  
