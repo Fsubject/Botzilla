@@ -2,7 +2,7 @@
 
 ## Collected Data
 ### What type of data do we collect?
-Botzilla collects data such as server id, channel id, user id, your news preferences, the news language, the news country. But we do not collect any sensitive information
+Botzilla collects data such as server id, channel id, your news preferences, the news language, the news country. But we do not collect any sensitive information
 
 ### What are we collecting this data?
 We collect this data to ensure that all of our features work perfectly
