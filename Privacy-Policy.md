@@ -1,4 +1,4 @@
-# Botzilla Privacy Policy | 16-04-2023
+# Botzilla Privacy Policy | 22-04-2023
 
 ## Collected Data
 ### What type of data do we collect?
