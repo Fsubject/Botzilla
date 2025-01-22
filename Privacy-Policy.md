@@ -1,4 +1,4 @@
-# Botzilla Privacy Policy | 16-08-2024
+# Botzilla Privacy Policy | 22-01-2025
 
 ## Collected Data
 ### What type of data do we collect?
@@ -7,7 +7,7 @@ Botzilla collects data such as the server id, some channel id. We also collect y
 ### Why are we collecting this data?
 We collect this data to ensure that all of our features work perfectly.
 
-### Does my data is protected?
+### Is my data protected?
 We ensure that all your data is properly protected in our server.
 
 ### I want to remove my data from your server!
